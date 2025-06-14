@@ -1,5 +1,11 @@
 {
-    "damaged_anvil": "anvil",
+    "dragon_head":"ignore",
+	"creeper_head":"ignore",
+	"zombie_head":"ignore",
+	"player_head":"ignore",
+	"wither_skeleton_skull":"ignore",
+	"skeleton_skull":"ignore",
+	"damaged_anvil": "anvil",
     "anvil": "anvil",
     "chipped_anvil": "anvil",
     "bamboo": "bamboo",
