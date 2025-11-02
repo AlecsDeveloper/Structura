@@ -1,23 +1,24 @@
-﻿Lookup,English
-title,Structura
-error,Error
-browse file,You need to browse for a structure file!
-unique tag,The Name Tag mut be unique
-pack name error,Pack already exists or pack name is empty
-no pack name,You need a Name
-no structure files,You need to add some structures
-name tag,Name Tag
-offset,Offset
-corner,Corner
-icon,Icon File
-update,Update
-browse,Browse
-packname,Pack Name
-advance,Advanced
-lists,Make Block Lists
-bigbuild,Big Build Mode
-remove,Remove Model
-makepack,Make Pack
-addmodel,Add Model
-getcords,Get Global Cords
-transparency,Transparency
+﻿Lookup,English,Test
+title,Structura,test
+error,Error,test
+browse file,You need to browse for a structure file!,test
+unique tag,The Name Tag mut be unique,test
+pack name error,Pack already exists or pack name is empty,test
+no pack name,You need a Name,test
+no structure files,You need to add some structures,test
+name tag,Name Tag,test
+offset,Offset,test
+corner,Corner,test
+icon,Icon File,test
+update,Update,test
+browse,Browse,test
+packname,Pack Name,test
+advance,Advanced,test
+lists,Make Block Lists,test
+bigbuild,Big Build Mode,test
+remove,Remove Model,test
+makepack,Make Pack,test
+addmodel,Add Model,test
+getcords,Get Global Cords,test
+transparency,Transparency,test
+structurefile,Structure file,test

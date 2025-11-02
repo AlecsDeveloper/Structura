@@ -360,7 +360,7 @@ icon_lb = Label(root, text=lang["icon"])
 icon_entry = Entry(root, textvariable=icon_var)
 updateButton = Button(root, text=lang["update"], command=update)
 IconButton = Button(root, text=lang["browse"], command=browseIcon)
-file_lb = Label(root, text="Structure file")
+file_lb = Label(root, text=lang["structurefile"])
 packName_lb = Label(root, text=lang["packname"])
 if debug:
     debug_lb = Label(root, text="Debug Mode",fg='Red').place(x=0,y=2)
